@@ -1,0 +1,72 @@
+body {
+	background: whitesmoke;
+    margin:0;
+}
+.instagram-header{
+    display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	height: 40px;
+    background: white;
+}
+.header{
+    background-color: white;
+    width:100%;
+   
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin-left:320px;
+       
+}
+
+.content{
+    
+    width:50%;
+    margin:0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top:50px;
+    margin-bottom:50px;
+    
+}
+
+.post{
+    
+    margin:0 auto;
+    background-color:white;
+    margin-bottom: 60px;
+    padding-bottom: 10px;
+    
+}
+.post-header{
+    display:flex;
+    justify-content: space-between;
+}
+h2{
+    
+    margin-left:10px;
+    margin-top:10px;
+    font-size:15px;  
+}
+
+.numbers {
+    
+    margin-right:10px;
+    margin-top:12px;
+    color:#D3D3D3;
+    font-size:14px;
+    
+}
+.photo img {
+    width: 100%;
+    height: auto; 
+   
+}
+
+.info {
+    margin:20px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+
+}
